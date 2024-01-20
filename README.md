@@ -4,7 +4,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=ElPeppyWall&show_icons=true&theme=codeSTACKr)
+![](https://www.demirramon.com/gen/undertale_text_box.png?text=ME%20PICAN%20LOS%20COCOS&box=undertale&character=undertale-papyrus&expression=default&font=papyrus&size=2&t=1705746741)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPeppyWall&layout=compact&show_icons=true&theme=codeSTACKr)
 
 <!---
